@@ -248,6 +248,8 @@ qcom.fmradio
 
 # Xiaomi adds
 com\.xiaomi\..*
+# Xiaomi Camera (camerax-vendor-extensions boot jar, device/xiaomi/camera)
+com\.camera\.camera2\.extensions
 
 ###################################################
 # IFAA Manager used for Alipay and/or WeChat payment
